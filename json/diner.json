@@ -1,0 +1,37 @@
+{
+    "categoryName": "Diner",
+    "startTime": "17:00",
+    "endTime": "20:00",
+    "dishes": [
+      {
+        "dishName": "Garnalen dim sum",
+        "ingredients": ["bisque", "tay soi"],
+        "price": 26.85
+      },
+      {
+        "dishName": "Kip rendang taco’s",
+        "ingredients": ["spasesam-sinaasappel", "komkommer", "bosui"],
+        "price": 29.69
+      },
+      {
+        "dishName": "Oesters rockefeller",
+        "ingredients": [
+          "spaspinazie-chili gratin",
+          "rode ui",
+          "Olijf olie",
+          "pepers"
+        ],
+        "price": 24.94
+      },
+      {
+        "dishName": "Millers tasting box",
+        "ingredients": [
+          "Garnalen dim sum",
+          "Kip rendang taco",
+          "Oesters rockefeller"
+        ],
+        "price": 90.99
+      }
+    ]
+  }
+  
