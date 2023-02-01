@@ -1,0 +1,27 @@
+{
+  "categoryName": "Breakfast",
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "dishes": [
+    {
+      "dishName": "uitsmijter speciaal",
+      "ingredients": "brood, 3 eieren, kaas, kip en sla",
+      "price": 6.42
+    },
+    {
+      "dishName": "English breakfast",
+      "ingredients": "braadworsten, tomatensaus, eieren, tijgerbrood",
+      "price": 9.69
+    },
+    {
+      "dishName": "Bagel Bugs",
+      "ingredients": "Bagel, gedroogde krekels, meelwormen, advocado, zon tomaatjes",
+      "price": 10
+    },
+    {
+      "dishName": "Peanut butter jelly time",
+      "ingredients": "brood, boter, jam, hagelslag",
+      "price": 8
+    }
+  ]
+}
